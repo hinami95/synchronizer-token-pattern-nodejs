@@ -13,4 +13,4 @@ Node.js should be installed to the machine
 5. Navigate to `http://localhost:4000/` via a web browser to view the application
 
 ## Note
-Username and Password is `admin`
+Username and Password are `admin`
