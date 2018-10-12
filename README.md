@@ -16,5 +16,5 @@ Node.js should be installed to the machine
 Username and Password are `admin`
 
 ## Blog Post
-To learn about CSRF and Synchronizer Token Pattern visit,
+To learn about CSRF and Synchronizer Token Pattern visit,__
 http://hirunimirando.blogspot.com/2018/10/synchronizer-token-pattern-nodejs.html
